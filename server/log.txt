@@ -1,0 +1,646 @@
+Wed May  4 14:33:10 2016 A error arise when change branch: error: Your local changes to the following files would be overwritten by checkout:
+	jade/header.jade
+	package.json
+Please, commit your changes or stash them before you can switch branches.
+Aborting 
+Wed May  4 14:33:23 2016 A error arise when change branch: error: Your local changes to the following files would be overwritten by checkout:
+	jade/header.jade
+	package.json
+Please, commit your changes or stash them before you can switch branches.
+Aborting 
+Wed May  4 14:37:00 2016 change version : v2.6.6 
+Wed May  4 14:37:00 2016 An error arise when compile: /root/mysite/compile.sh: 2: cd: can't cd to /home/projects/nw-packer
+/root/mysite/compile.sh: 3: /root/mysite/compile.sh: grunt: not found
+/root/mysite/compile.sh: 10: /root/mysite/compile.sh: Syntax error: end of file unexpected (expecting "then") 
+Wed May  4 14:37:05 2016 change version : (fc)v1.0.0.1208_beta 
+Wed May  4 14:37:05 2016 An error arise when compile: /root/mysite/compile.sh: 2: cd: can't cd to /home/projects/nw-packer
+/root/mysite/compile.sh: 3: /root/mysite/compile.sh: grunt: not found
+/root/mysite/compile.sh: 10: /root/mysite/compile.sh: Syntax error: end of file unexpected (expecting "then") 
+Wed May  4 14:38:30 2016 change version : v2.6.6 
+Wed May  4 14:38:30 2016 An error arise when compile: /root/mysite/compile.sh: 2: cd: can't cd to /home/projects/nw-packer
+/root/mysite/compile.sh: 3: /root/mysite/compile.sh: grunt: not found
+/root/mysite/compile.sh: 10: /root/mysite/compile.sh: Syntax error: end of file unexpected (expecting "then") 
+Wed May  4 14:38:36 2016 change version : (standard)v2.0.0.1208_beta 
+Wed May  4 14:38:36 2016 An error arise when compile: /root/mysite/compile.sh: 2: cd: can't cd to /home/projects/nw-packer
+/root/mysite/compile.sh: 3: /root/mysite/compile.sh: grunt: not found
+/root/mysite/compile.sh: 10: /root/mysite/compile.sh: Syntax error: end of file unexpected (expecting "then") 
+Wed May  4 14:38:41 2016 change version : (standard)v2.0.0.1208_beta 
+Wed May  4 14:38:41 2016 An error arise when compile: /root/mysite/compile.sh: 2: cd: can't cd to /home/projects/nw-packer
+/root/mysite/compile.sh: 3: /root/mysite/compile.sh: grunt: not found
+/root/mysite/compile.sh: 10: /root/mysite/compile.sh: Syntax error: end of file unexpected (expecting "then") 
+Wed May  4 14:40:00 2016 change version : (fc)v1.0.0.1208_beta 
+Wed May  4 14:40:00 2016 An error arise when compile: /root/mysite/compile.sh: 2: cd: can't cd to /home/projects/nw-packer
+/root/mysite/compile.sh: 3: /root/mysite/compile.sh: grunt: not found
+/root/mysite/compile.sh: 10: /root/mysite/compile.sh: Syntax error: end of file unexpected (expecting "then") 
+Wed May  4 14:40:02 2016 change version : (fc)v1.0.0.1208_beta 
+Wed May  4 14:40:02 2016 An error arise when compile: /root/mysite/compile.sh: 2: cd: can't cd to /home/projects/nw-packer
+/root/mysite/compile.sh: 3: /root/mysite/compile.sh: grunt: not found
+/root/mysite/compile.sh: 10: /root/mysite/compile.sh: Syntax error: end of file unexpected (expecting "then") 
+Wed May  4 14:40:07 2016 change version : (fc)v1.0.0.1208_beta 
+Wed May  4 14:40:07 2016 An error arise when compile: /root/mysite/compile.sh: 2: cd: can't cd to /home/projects/nw-packer
+/root/mysite/compile.sh: 3: /root/mysite/compile.sh: grunt: not found
+/root/mysite/compile.sh: 10: /root/mysite/compile.sh: Syntax error: end of file unexpected (expecting "then") 
+Wed May  4 14:40:09 2016 change version : (standard)v2.0.0.1208_beta 
+Wed May  4 14:40:10 2016 An error arise when compile: /root/mysite/compile.sh: 2: cd: can't cd to /home/projects/nw-packer
+/root/mysite/compile.sh: 3: /root/mysite/compile.sh: grunt: not found
+/root/mysite/compile.sh: 10: /root/mysite/compile.sh: Syntax error: end of file unexpected (expecting "then") 
+Wed May  4 14:41:51 2016 change version : v2.6.6 
+Wed May  4 14:41:51 2016 An error arise when compile: /root/mysite/compile.sh: 2: cd: can't cd to /home/projects/nw-packer
+/root/mysite/compile.sh: 3: /root/mysite/compile.sh: grunt: not found
+/root/mysite/compile.sh: 10: /root/mysite/compile.sh: Syntax error: end of file unexpected (expecting "then") 
+Wed May  4 14:43:45 2016 change version : v2.6.6 
+Wed May  4 14:43:45 2016 An error arise when compile: /root/mysite/compile.sh: 2: cd: can't cd to /home/projects/nw-packer
+/root/mysite/compile.sh: 3: /root/mysite/compile.sh: grunt: not found
+/root/mysite/compile.sh: 10: /root/mysite/compile.sh: Syntax error: end of file unexpected (expecting "then") 
+Wed May  4 14:44:35 2016 change version : (fc)v1.0.0.1208_beta 
+Wed May  4 14:44:35 2016 An error arise when compile: /root/mysite/compile.sh: 2: cd: can't cd to /home/projects/nw-packer
+/root/mysite/compile.sh: 3: /root/mysite/compile.sh: grunt: not found
+/root/mysite/compile.sh: 10: /root/mysite/compile.sh: Syntax error: end of file unexpected (expecting "then") 
+Wed May  4 14:44:39 2016 change version : (fc)v1.0.0.1208_beta 
+Wed May  4 14:44:39 2016 An error arise when compile: /root/mysite/compile.sh: 2: cd: can't cd to /home/projects/nw-packer
+/root/mysite/compile.sh: 3: /root/mysite/compile.sh: grunt: not found
+/root/mysite/compile.sh: 10: /root/mysite/compile.sh: Syntax error: end of file unexpected (expecting "then") 
+Wed May  4 14:45:42 2016 change version : (fc)v1.0.0.1208_beta 
+Wed May  4 14:46:00 2016 compiled successful and now begin the download.The Company name is: baode 
+Wed May  4 14:47:31 2016 change version : v2.6.6 
+Wed May  4 14:47:32 2016 An error arise when compile: /root/mysite/compile.sh: 2: cd: can't cd to /home/projects/nw-packer
+/root/mysite/compile.sh: 3: /root/mysite/compile.sh: grunt: not found
+/root/mysite/compile.sh: 10: /root/mysite/compile.sh: Syntax error: end of file unexpected (expecting "then") 
+Wed May  4 14:47:37 2016 change version : (standard)v2.3.1_beta 
+Wed May  4 14:47:37 2016 An error arise when compile: /root/mysite/compile.sh: 2: cd: can't cd to /home/projects/nw-packer
+/root/mysite/compile.sh: 3: /root/mysite/compile.sh: grunt: not found
+/root/mysite/compile.sh: 10: /root/mysite/compile.sh: Syntax error: end of file unexpected (expecting "then") 
+Wed May  4 14:47:37 2016 change version : v2.6.6 
+Wed May  4 14:47:38 2016 An error arise when compile: /root/mysite/compile.sh: 2: cd: can't cd to /home/projects/nw-packer
+/root/mysite/compile.sh: 3: /root/mysite/compile.sh: grunt: not found
+/root/mysite/compile.sh: 10: /root/mysite/compile.sh: Syntax error: end of file unexpected (expecting "then") 
+Wed May  4 14:52:28 2016 change version : (standard)v2.3.1_beta 
+Wed May  4 14:52:28 2016 An error arise when compile: /root/mysite/compile.sh: 2: cd: can't cd to /home/projects/nw-packer
+/root/mysite/compile.sh: 3: /root/mysite/compile.sh: grunt: not found
+/root/mysite/compile.sh: 10: /root/mysite/compile.sh: Syntax error: end of file unexpected (expecting "then") 
+Wed May  4 15:02:46 2016 change version : (standard)v2.3.1_beta 
+Wed May  4 15:02:50 2016 change version : (standard)v2.3.1_beta 
+Wed May  4 15:02:51 2016 An error arise when change exe name: mv: cannot stat 'Zadmin.exe': No such file or directory 
+Wed May  4 15:02:52 2016 An error arise when zip:   adding: Zadmin_standard_v2.3.1_beta/ (stored 0%)
+  adding: Zadmin_standard_v2.3.1_beta/libGLESv2.dll (deflated 54%)
+  adding: Zadmin_standard_v2.3.1_beta/nw.pak (deflated 70%)
+  adding: Zadmin_standard_v2.3.1_beta/ffmpegsumo.dll (deflated 52%)
+  adding: Zadmin_standard_v2.3.1_beta/icudt.dll (deflated 57%)
+  adding: Zadmin_standard_v2.3.1_beta/Zadmin_standard_v2.3.1_beta.exe (deflated 54%)
+  adding: Zadmin_standard_v2.3.1_beta/libEGL.dll
+zip warning: No such file or directory
+	zip warning: could not open for reading: Zadmin_standard_v2.3.1_beta/libEGL.dll
+
+zip warning: Not all files were readable
+  files/entries read:  6 (53M bytes)  skipped:  1 (100K bytes)rm -r /home/projects/nw-packer/build/releases/Zadmin/win/temp/Zadmin_standard_v2.3.1_beta 
+Wed May  4 15:03:02 2016 change version : (standard)v2.3.1_beta 
+Wed May  4 15:03:08 2016 compiled successful and now begin the download.The Company name is: baode 
+Wed May  4 15:04:53 2016 change version : v2.6.6 
+Wed May  4 15:04:59 2016 compiled successful and now begin the download.The Company name is: huili 
+Wed May  4 15:05:02 2016 change version : v2.6.6 
+Wed May  4 15:05:08 2016 compiled successful and now begin the download.The Company name is: tg 
+Wed May  4 15:05:54 2016 change version : v2.6.6 
+Wed May  4 15:05:59 2016 compiled successful and now begin the download.The Company name is: none 
+Wed May  4 15:06:07 2016 change version : v2.6.6 
+Wed May  4 15:06:12 2016 compiled successful and now begin the download.The Company name is: tg 
+Wed May  4 15:06:46 2016 change version : v2.6.6 
+Wed May  4 15:06:52 2016 compiled successful and now begin the download.The Company name is: sharpwidom 
+Wed May  4 15:08:36 2016 change version : v2.6.6 
+Wed May  4 15:08:42 2016 compiled successful and now begin the download.The Company name is: tg 
+Wed May  4 15:19:20 2016 change version : (standard)v2.3.1_beta 
+Wed May  4 15:19:37 2016 compiled successful and now begin the download.The Company name is: fiamm 
+Wed May  4 15:19:49 2016 change version : (standard)v2.3.1_beta 
+Wed May  4 15:20:03 2016 compiled successful and now begin the download.The Company name is: huili 
+Wed May  4 15:22:10 2016 change version : (standard)v2.1.0.1208_beta 
+Wed May  4 15:22:24 2016 compiled successful and now begin the download.The Company name is: none 
+Wed May  4 15:26:17 2016 change version : (standard)v2.1.0.1208_beta 
+Wed May  4 15:26:30 2016 compiled successful and now begin the download.The Company name is: histream 
+Wed May  4 15:27:56 2016 change version : (standard)v2.1.0.1208_beta 
+Wed May  4 15:28:10 2016 compiled successful and now begin the download.The Company name is: tdwy 
+Wed May  4 15:34:16 2016 change version : (hwraid)v1.0.0.1208_beta 
+Wed May  4 15:34:23 2016 compiled successful and now begin the download.The Company name is: tdwy 
+Wed May  4 15:36:58 2016 change version : v2.6.6 
+Wed May  4 15:37:03 2016 compiled successful and now begin the download.The Company name is: tdwy 
+Wed May  4 15:37:26 2016 change version : v2.6.6 
+Wed May  4 15:37:32 2016 compiled successful and now begin the download.The Company name is: tg 
+Wed May  4 15:39:07 2016 change version : (standard)v2.3.1_beta 
+Wed May  4 15:39:12 2016 compiled successful and now begin the download.The Company name is: tg 
+Wed May  4 15:40:43 2016 change version : (hwraid)v1.0.0.1208_beta 
+Wed May  4 15:40:49 2016 compiled successful and now begin the download.The Company name is: tg 
+Wed May  4 15:45:25 2016 change version : v2.6.6 
+Wed May  4 15:45:44 2016 compiled successful and now begin the download.The Company name is: baode 
+Wed May  4 15:45:59 2016 change version : v2.6.6 
+Wed May  4 15:46:13 2016 compiled successful and now begin the download.The Company name is: ql 
+Wed May  4 15:46:20 2016 change version : (standard)v2.0.0.1208_beta 
+Wed May  4 15:46:33 2016 compiled successful and now begin the download.The Company name is: sharpwidom 
+Wed May  4 15:49:32 2016 change version : (standard)v2.1.0.1208_beta 
+Wed May  4 15:49:38 2016 change version : (standard)v2.1.0.1208_beta 
+Wed May  4 15:49:45 2016 compiled successful and now begin the download.The Company name is: huili 
+Wed May  4 15:49:58 2016 compiled successful and now begin the download.The Company name is: huili 
+Wed May  4 15:51:58 2016 change version : (standard)v2.1.0.1208_beta 
+Wed May  4 15:52:12 2016 compiled successful and now begin the download.The Company name is: tg 
+Wed May  4 15:54:04 2016 change version : (fc)v1.0.0.1208_beta 
+Wed May  4 15:54:18 2016 compiled successful and now begin the download.The Company name is: sharpwidom 
+Wed May  4 15:57:37 2016 change version : (standard)v2.3.1_beta 
+Wed May  4 15:57:52 2016 compiled successful and now begin the download.The Company name is: sharpwidom 
+Wed May  4 16:00:19 2016 change version : v2.6.6 
+Wed May  4 16:00:33 2016 compiled successful and now begin the download.The Company name is: tz 
+Wed May  4 16:02:23 2016 change version : v2.6.6 
+Wed May  4 16:02:38 2016 compiled successful and now begin the download.The Company name is: tz 
+Wed May  4 16:02:54 2016 change version : v2.6.6 
+Wed May  4 16:03:08 2016 compiled successful and now begin the download.The Company name is: baode 
+Wed May  4 16:04:48 2016 change version : v2.6.6 
+Wed May  4 16:05:02 2016 compiled successful and now begin the download.The Company name is: none 
+Wed May  4 19:10:58 2016 change version : v2.6.6 
+Wed May  4 19:11:04 2016 compiled successful and now begin the download.The Company name is: fiamm 
+Wed May  4 19:11:39 2016 change version : v2.6.6 
+Wed May  4 19:11:45 2016 compiled successful and now begin the download.The Company name is: histream 
+Wed May  4 19:12:28 2016 change version : (hwraid)v1.0.0.1208_beta 
+Wed May  4 19:12:33 2016 compiled successful and now begin the download.The Company name is: histream 
+Wed May  4 19:15:37 2016 change version : (standard)v2.3.1_beta 
+Wed May  4 19:15:43 2016 compiled successful and now begin the download.The Company name is: ql 
+Wed May  4 19:16:26 2016 change version : (hwraid)v1.0.0.1208_beta 
+Wed May  4 19:16:31 2016 compiled successful and now begin the download.The Company name is: huili 
+Wed May  4 19:32:42 2016 change version : (fc)v1.0.0.1208_beta 
+Wed May  4 19:32:47 2016 compiled successful and now begin the download.The Company name is: none 
+Wed May  4 19:33:12 2016 change version : (fc)v1.0.0.1208_beta 
+Wed May  4 19:33:18 2016 compiled successful and now begin the download.The Company name is: ql 
+Wed May  4 19:33:51 2016 change version : (standard)v2.0.0.1208_beta 
+Wed May  4 19:33:57 2016 compiled successful and now begin the download.The Company name is: sharpwidom 
+Wed May  4 19:36:55 2016 change version : (standard)v2.3.1_beta 
+Wed May  4 19:37:01 2016 compiled successful and now begin the download.The Company name is: baode 
+Fri May  6 09:49:39 2016 change version : (fc)v1.0.0.1208_beta 
+Fri May  6 09:49:45 2016 compiled successful and now begin the download.The Company name is: ql 
+Fri May  6 11:30:50 2016 change version : v2.6.6 
+Fri May  6 11:30:55 2016 compiled successful and now begin the download.The Company name is: none 
+Fri May  6 11:33:20 2016 change version : (standard)v2.3.1_beta 
+Fri May  6 11:33:26 2016 compiled successful and now begin the download.The Company name is: none 
+Fri May  6 13:46:06 2016 change version : v2.6.6 
+Fri May  6 13:46:12 2016 compiled successful and now begin the download.The Company name is: huili 
+Fri May  6 13:49:51 2016 change version : (fc)v1.0.0.1208_beta 
+Fri May  6 13:49:58 2016 compiled successful and now begin the download.The Company name is: fiamm 
+Fri May  6 15:55:46 2016 change version : (hwraid)v1.0.0.1208_beta 
+Fri May  6 15:56:06 2016 compiled successful and now begin the download.The Company name is: tdwy 
+Fri May  6 15:59:17 2016 change version : (standard)v2.1.0.1208_beta 
+Fri May  6 15:59:32 2016 compiled successful and now begin the download.The Company name is: sharpwidom 
+Fri May  6 16:00:15 2016 change version : v2.6.6 
+Fri May  6 16:00:29 2016 compiled successful and now begin the download.The Company name is: dh 
+Fri May  6 16:01:53 2016 change version : v2.6.6 
+Fri May  6 16:02:07 2016 compiled successful and now begin the download.The Company name is: xhx 
+Fri May  6 16:05:12 2016 change version : v2.6.6 
+Fri May  6 16:05:27 2016 compiled successful and now begin the download.The Company name is: tg 
+Fri May  6 16:05:40 2016 change version : v2.6.6 
+Fri May  6 16:05:54 2016 compiled successful and now begin the download.The Company name is: huili 
+Fri May  6 16:21:06 2016 change version : (liyuan)v2.3.0_beta 
+Fri May  6 16:21:21 2016 compiled successful and now begin the download.The Company name is: znv 
+Fri May  6 16:26:40 2016 change version : (liyuan)v2.3.0_beta 
+Fri May  6 16:26:54 2016 compiled successful and now begin the download.The Company name is: walltiming 
+Fri May  6 16:30:15 2016 change version : v2.6.6 
+Fri May  6 16:30:29 2016 compiled successful and now begin the download.The Company name is: baode 
+Fri May  6 16:34:21 2016 change version : v2.6.6 
+Fri May  6 16:34:36 2016 compiled successful and now begin the download.The Company name is: fiamm 
+Fri May  6 16:39:56 2016 change version : v2.6.6 
+Fri May  6 16:40:03 2016 compiled successful and now begin the download.The Company name is: szt 
+Fri May  6 16:40:50 2016 change version : v2.6.6 
+Fri May  6 16:40:56 2016 compiled successful and now begin the download.The Company name is: none 
+Fri May  6 16:43:13 2016 change version : v2.6.6 
+Fri May  6 16:43:33 2016 compiled successful and now begin the download.The Company name is: baode 
+Fri May  6 16:45:18 2016 change version : v2.6.6 
+Fri May  6 16:45:32 2016 compiled successful and now begin the download.The Company name is: ql 
+Fri May  6 16:51:11 2016 change version : v2.6.6 
+Fri May  6 16:51:17 2016 compiled successful and now begin the download.The Company name is: walltiming 
+Fri May  6 16:52:12 2016 change version : (standard)v2.1.0.1208_beta 
+Fri May  6 16:52:17 2016 compiled successful and now begin the download.The Company name is: walltiming 
+Fri May  6 16:53:39 2016 change version : (standard)v2.1.0.1208_beta 
+Fri May  6 16:53:59 2016 compiled successful and now begin the download.The Company name is: zexabox 
+Fri May  6 16:54:23 2016 change version : (standard)v2.1.0.1208_beta 
+Fri May  6 16:54:37 2016 compiled successful and now begin the download.The Company name is: xhx 
+Fri May  6 17:02:04 2016 change version : (standard)v2.1.0.1208_beta 
+Fri May  6 17:02:11 2016 compiled successful and now begin the download.The Company name is: zkaf 
+Fri May  6 17:02:45 2016 change version : (standard)v2.3.0_beta 
+Fri May  6 17:02:51 2016 compiled successful and now begin the download.The Company name is: walltiming 
+Fri May  6 17:07:59 2016 change version : (fc)v1.0.0.1208_beta 
+Fri May  6 17:08:19 2016 compiled successful and now begin the download.The Company name is: tdwy 
+Fri May  6 17:08:45 2016 change version : (liyuan)v2.3.0_beta 
+Fri May  6 17:08:58 2016 compiled successful and now begin the download.The Company name is: sharpwidom 
+Fri May  6 17:10:36 2016 change version : (hwraid)v1.0.0.1208_beta 
+Fri May  6 17:10:42 2016 compiled successful and now begin the download.The Company name is: szt 
+Fri May  6 17:11:15 2016 change version : (fc)v1.0.0.1208_beta 
+Fri May  6 17:11:21 2016 compiled successful and now begin the download.The Company name is: xhx 
+Fri May  6 17:12:46 2016 change version : (liyuan)v2.3.0_beta 
+Fri May  6 17:13:05 2016 compiled successful and now begin the download.The Company name is: baode 
+Fri May  6 17:17:19 2016 change version : (fc)v1.0.0.1208_beta 
+Fri May  6 17:17:25 2016 compiled successful and now begin the download.The Company name is: tg 
+Fri May  6 17:18:38 2016 change version : (fc)v1.0.0.1208_beta 
+Fri May  6 17:18:44 2016 compiled successful and now begin the download.The Company name is: tz 
+Fri May  6 17:24:31 2016 change version : (standard)v2.1.0.1208_beta 
+Fri May  6 17:24:52 2016 compiled successful and now begin the download.The Company name is: sharpwidom 
+Fri May  6 17:25:14 2016 change version : (standard)v2.1.0.1208_beta 
+Fri May  6 17:25:27 2016 compiled successful and now begin the download.The Company name is: none 
+Fri May  6 17:27:47 2016 change version : v2.6.6 
+Fri May  6 17:27:53 2016 compiled successful and now begin the download.The Company name is: baode 
+Fri May  6 17:33:26 2016 change version : (standard)v2.1.0.1208_beta 
+Fri May  6 17:33:32 2016 compiled successful and now begin the download.The Company name is: zexabox 
+Fri May  6 17:34:45 2016 change version : (standard)v2.3.0_beta 
+Fri May  6 17:35:05 2016 compiled successful and now begin the download.The Company name is: tdwy 
+Fri May  6 17:40:35 2016 change version : v2.6.6 
+Fri May  6 17:40:41 2016 compiled successful and now begin the download.The Company name is: znv 
+Fri May  6 17:45:38 2016 change version : (standard)v2.3.1_beta 
+Fri May  6 17:45:45 2016 compiled successful and now begin the download.The Company name is: zkaf 
+Sat May  7 10:34:52 2016 change version : v2.6.6 
+Sat May  7 10:34:58 2016 compiled successful and now begin the download.The Company name is: baode 
+Sat May  7 10:47:19 2016 change version : v2.6.6 
+Sat May  7 10:47:38 2016 compiled successful and now begin the download.The Company name is: baode 
+Sat May  7 11:00:43 2016 change version : (standard)v2.1.0.1208_beta 
+Sat May  7 11:00:49 2016 compiled successful and now begin the download.The Company name is: ql 
+Sat May  7 14:28:05 2016 change version : (fc)v1.0.0.1208_beta 
+Sat May  7 14:28:10 2016 compiled successful and now begin the download.The Company name is: baode 
+Mon May  9 09:25:57 2016 change version : (standard)v2.3.1_beta 
+Mon May  9 09:26:03 2016 compiled successful and now begin the download.The Company name is: tg 
+Mon May  9 09:28:17 2016 change version : v2.6.6 
+Mon May  9 09:28:38 2016 compiled successful and now begin the download.The Company name is: znv 
+Mon May  9 09:29:20 2016 change version : v2.6.6 
+Mon May  9 09:29:34 2016 compiled successful and now begin the download.The Company name is: tz 
+Mon May  9 09:30:28 2016 change version : (hwraid)v1.0.0.1208_beta 
+Mon May  9 09:30:41 2016 compiled successful and now begin the download.The Company name is: baode 
+Mon May  9 09:35:10 2016 change version : v2.6.6 
+Mon May  9 09:35:24 2016 compiled successful and now begin the download.The Company name is: xhx 
+Mon May  9 11:00:01 2016 upload photos ; Company name : bary 
+Mon May  9 11:01:07 2016 change version : (fc)v1.0.0.1208_beta 
+Mon May  9 11:01:20 2016 compiled successful and now begin the download.The Company name is: baode 
+Mon May  9 11:01:43 2016 change version : (standard)v2.0.0.1208_beta 
+Mon May  9 11:01:46 2016 change version : (standard)v2.0.0.1208_beta 
+Mon May  9 11:01:57 2016 compiled successful and now begin the download.The Company name is: baode 
+Mon May  9 11:02:07 2016 compiled successful and now begin the download.The Company name is: bary 
+Mon May  9 11:02:07 2016 change version : (standard)v2.0.0.1208_beta 
+Mon May  9 11:02:21 2016 compiled successful and now begin the download.The Company name is: bary 
+Mon May  9 11:02:21 2016 change version : (standard)v2.0.0.1208_beta 
+Mon May  9 11:02:35 2016 compiled successful and now begin the download.The Company name is: bary 
+Mon May  9 11:02:57 2016 change version : (standard)v2.0.0.1208_beta 
+Mon May  9 11:03:10 2016 compiled successful and now begin the download.The Company name is: dh 
+Mon May  9 11:03:32 2016 change version : v2.6.6 
+Mon May  9 11:03:46 2016 compiled successful and now begin the download.The Company name is: baode 
+Mon May  9 11:04:07 2016 change version : v2.6.6 
+Mon May  9 11:04:21 2016 compiled successful and now begin the download.The Company name is: szt 
+Mon May  9 11:04:45 2016 change version : v2.6.6 
+Mon May  9 11:04:59 2016 compiled successful and now begin the download.The Company name is: bary 
+Mon May  9 11:07:20 2016 upload photos ; Company name : bary 
+Mon May  9 11:07:26 2016 change version : (hwraid)v1.0.0.1208_beta 
+Mon May  9 11:07:39 2016 compiled successful and now begin the download.The Company name is: bary 
+Mon May  9 11:08:57 2016 upload photos ; Company name : bary 
+Mon May  9 11:09:01 2016 change version : (hwraid)v1.0.0.1208_beta 
+Mon May  9 11:09:15 2016 compiled successful and now begin the download.The Company name is: baode 
+Mon May  9 11:09:27 2016 change version : (fc)v1.0.0.1208_beta 
+Mon May  9 11:09:40 2016 compiled successful and now begin the download.The Company name is: bary 
+Mon May  9 11:14:58 2016 upload photos ; Company name : bary 
+Mon May  9 11:15:09 2016 change version : v2.6.6 
+Mon May  9 11:15:23 2016 compiled successful and now begin the download.The Company name is: bary 
+Mon May  9 14:16:06 2016 change version : v2.6.6 
+Mon May  9 14:16:21 2016 compiled successful and now begin the download.The Company name is: bary 
+Mon May 16 15:57:31 2016 upload photos ; Company name : yongfengkeji 
+Mon May 16 15:57:45 2016 change version : v2.6.6 
+Mon May 16 15:58:01 2016 compiled successful and now begin the download.The Company name is: yongfengkeji 
+Mon May 16 16:00:54 2016 change version : v2.6.6 
+Mon May 16 16:01:08 2016 compiled successful and now begin the download.The Company name is: yongfengkeji 
+Mon May 16 16:16:14 2016 change version : v2.6.6 
+Mon May 16 16:16:29 2016 compiled successful and now begin the download.The Company name is: yongfengkeji 
+Wed May 18 11:55:09 2016 change version : v2.6.6 
+Wed May 18 11:55:24 2016 compiled successful and now begin the download.The Company name is: none 
+Thu May 19 13:49:16 2016 change version : v2.6.6 
+Thu May 19 13:49:31 2016 compiled successful and now begin the download.The Company name is: baode 
+Thu May 19 13:53:01 2016 change version : v2.6.6 
+Thu May 19 13:53:17 2016 compiled successful and now begin the download.The Company name is: baode 
+Thu May 19 13:59:30 2016 change version : v2.6.7 
+Thu May 19 13:59:45 2016 compiled successful and now begin the download.The Company name is: baode 
+Thu May 19 14:08:49 2016 change version : v2.6.7 
+Thu May 19 14:09:03 2016 compiled successful and now begin the download.The Company name is: none 
+Thu May 19 14:28:57 2016 change version : v2.6.7 
+Thu May 19 14:29:12 2016 compiled successful and now begin the download.The Company name is: none 
+Fri May 20 09:03:22 2016 change version : v2.6.7 
+Fri May 20 09:03:37 2016 compiled successful and now begin the download.The Company name is: yongfengkeji 
+Fri May 20 15:32:55 2016 change version : v2.6.7 
+Fri May 20 15:33:09 2016 compiled successful and now begin the download.The Company name is: none 
+Fri May 20 19:15:00 2016 change version : v2.6.7 
+Fri May 20 19:15:15 2016 compiled successful and now begin the download.The Company name is: none 
+Tue May 24 09:02:47 2016 change version : (hwraid)v1.0.0.1208_beta 
+Tue May 24 09:03:00 2016 compiled successful and now begin the download.The Company name is: none 
+Tue May 24 09:03:09 2016 change version : (hwraid)v1.0.0.1208_beta 
+Tue May 24 09:03:23 2016 compiled successful and now begin the download.The Company name is: none 
+Tue May 24 09:03:43 2016 change version : (hwraid)v1.0.0.1208_beta 
+Tue May 24 09:03:56 2016 compiled successful and now begin the download.The Company name is: none 
+Wed May 25 09:26:50 2016 change version : v2.6.7 
+Wed May 25 09:27:05 2016 compiled successful and now begin the download.The Company name is: yongfengkeji 
+Thu May 26 08:49:09 2016 change version : (hwraid)v1.0.0.1208_beta 
+Thu May 26 08:49:22 2016 compiled successful and now begin the download.The Company name is: none 
+Thu May 26 09:05:23 2016 change version : v2.6.7 
+Thu May 26 09:05:38 2016 compiled successful and now begin the download.The Company name is: none 
+Thu May 26 15:46:17 2016 change version : v2.7.1 
+Thu May 26 15:46:32 2016 compiled successful and now begin the download.The Company name is: none 
+Thu May 26 16:29:11 2016 change version : v2.7.1 
+Thu May 26 16:29:26 2016 compiled successful and now begin the download.The Company name is: none 
+Fri May 27 10:42:29 2016 change version : v2.7.1 
+Fri May 27 10:42:44 2016 compiled successful and now begin the download.The Company name is: none 
+Fri May 27 14:19:57 2016 change version : v2.7.1 
+Fri May 27 14:20:11 2016 compiled successful and now begin the download.The Company name is: zyx 
+Fri May 27 14:27:29 2016 change version : (hwraid)v1.0.0.1208_beta 
+Fri May 27 14:27:42 2016 compiled successful and now begin the download.The Company name is: zexabox 
+Tue May 31 08:37:25 2016 change version : v2.7.1 
+Tue May 31 08:37:40 2016 compiled successful and now begin the download.The Company name is: baode 
+Tue May 31 08:56:07 2016 change version : v2.7.1 
+Tue May 31 08:56:22 2016 compiled successful and now begin the download.The Company name is: none 
+Tue May 31 09:34:29 2016 change version : v2.7.1 
+Tue May 31 09:34:44 2016 compiled successful and now begin the download.The Company name is: none 
+Tue May 31 09:39:51 2016 change version : v2.7.1 
+Tue May 31 09:40:06 2016 compiled successful and now begin the download.The Company name is: baode 
+Tue May 31 15:45:23 2016 change version : v2.7.1_nosync 
+Tue May 31 15:45:40 2016 compiled successful and now begin the download.The Company name is: none 
+Wed Jun  1 10:21:24 2016 change version : v2.7.1_nosync 
+Wed Jun  1 10:21:39 2016 compiled successful and now begin the download.The Company name is: yongfengkeji 
+Wed Jun  1 10:39:02 2016 change version : (fc)v1.0.0.1208_beta 
+Wed Jun  1 10:39:16 2016 compiled successful and now begin the download.The Company name is: zexabox 
+Thu Jun  2 14:25:20 2016 change version : v2.7.1 
+Thu Jun  2 14:25:34 2016 compiled successful and now begin the download.The Company name is: none 
+Fri Jun  3 09:33:52 2016 change version : v2.7.2_liyuan 
+Fri Jun  3 09:34:09 2016 compiled successful and now begin the download.The Company name is: none 
+Fri Jun  3 11:09:24 2016 change version : v2.7.2_liyuan 
+Fri Jun  3 11:09:38 2016 compiled successful and now begin the download.The Company name is: baode 
+Fri Jun  3 11:17:41 2016 change version : v2.7.2_liyuan 
+Fri Jun  3 11:17:56 2016 compiled successful and now begin the download.The Company name is: none 
+Fri Jun  3 14:20:34 2016 change version : v2.7.2_liyuan 
+Fri Jun  3 14:20:49 2016 compiled successful and now begin the download.The Company name is: none 
+Mon Jun  6 11:37:36 2016 change version : (hwraid)v1.0.0.1208_beta 
+Mon Jun  6 11:37:42 2016 compiled successful and now begin the download.The Company name is: baode 
+Mon Jun  6 11:40:42 2016 change version : (hwraid)v1.0.0.1208_beta 
+Mon Jun  6 11:40:47 2016 compiled successful and now begin the download.The Company name is: fiamm 
+Mon Jun  6 11:41:38 2016 change version : (hwraid)v1.0.0.1208_beta 
+Mon Jun  6 11:41:43 2016 compiled successful and now begin the download.The Company name is: tdwy 
+Mon Jun  6 11:44:54 2016 change version : v2.7.2_liyuan 
+Mon Jun  6 11:45:00 2016 compiled successful and now begin the download.The Company name is: baode 
+Mon Jun  6 11:50:35 2016 change version : (hwraid)v1.0.0.1208_beta 
+Mon Jun  6 11:50:53 2016 compiled successful and now begin the download.The Company name is: zexabox 
+Mon Jun  6 11:57:50 2016 change version : (hwraid)v1.0.0.1208_beta 
+Mon Jun  6 11:58:03 2016 compiled successful and now begin the download.The Company name is: zexabox 
+Sun Jun 12 14:56:30 2016 change version : v2.7.1 
+Sun Jun 12 14:56:44 2016 compiled successful and now begin the download.The Company name is: yongfengkeji 
+Sun Jun 12 18:21:05 2016 change version : v2.7.1_nosync 
+Sun Jun 12 18:21:20 2016 compiled successful and now begin the download.The Company name is: yongfengkeji 
+Mon Jun 13 09:01:51 2016 change version : v2.7.1_nosync 
+Mon Jun 13 09:02:06 2016 compiled successful and now begin the download.The Company name is: baode 
+Mon Jun 13 09:03:16 2016 A error arise when change branch: error: Your local changes to the following files would be overwritten by checkout:
+	package.json
+Please, commit your changes or stash them before you can switch branches.
+Aborting 
+Mon Jun 13 09:08:40 2016 change version : v2.7.1_nosync 
+Mon Jun 13 09:08:54 2016 compiled successful and now begin the download.The Company name is: tdwy 
+Mon Jun 13 09:11:50 2016 change version : v2.7.1_nosync 
+Mon Jun 13 09:12:05 2016 compiled successful and now begin the download.The Company name is: yongfengkeji 
+Tue Jun 14 09:55:11 2016 change version : v2.7.2_liyuan 
+Tue Jun 14 09:55:17 2016 compiled successful and now begin the download.The Company name is: baode 
+Tue Jun 14 10:46:57 2016 change version : v2.7.1_nosync 
+Tue Jun 14 10:47:02 2016 compiled successful and now begin the download.The Company name is: baode 
+Tue Jun 14 11:39:06 2016 change version : v2.7.1_nosync 
+Tue Jun 14 11:39:12 2016 compiled successful and now begin the download.The Company name is: baode 
+Tue Jun 14 11:39:20 2016 change version : v2.7.1_nosync 
+Tue Jun 14 11:39:26 2016 compiled successful and now begin the download.The Company name is: none 
+Tue Jun 14 13:57:11 2016 change version : v2.7.1_nosync 
+Tue Jun 14 13:57:16 2016 compiled successful and now begin the download.The Company name is: none 
+Tue Jun 14 15:35:55 2016 change version : v2.7.2 
+Tue Jun 14 15:36:01 2016 compiled successful and now begin the download.The Company name is: none 
+Tue Jun 14 15:37:14 2016 change version : v2.6.7 
+Tue Jun 14 15:37:19 2016 compiled successful and now begin the download.The Company name is: none 
+Tue Jun 14 15:38:24 2016 change version : v2.7.2_liyuan 
+Tue Jun 14 15:38:29 2016 compiled successful and now begin the download.The Company name is: none 
+Tue Jun 14 15:49:07 2016 change version : v2.7.2_liyuan 
+Tue Jun 14 15:49:12 2016 compiled successful and now begin the download.The Company name is: tz 
+Tue Jun 14 16:02:21 2016 change version : v2.7.2_liyuan 
+Tue Jun 14 16:02:26 2016 compiled successful and now begin the download.The Company name is: none 
+Tue Jun 14 16:10:13 2016 change version : v2.7.2_beta 
+Tue Jun 14 16:10:18 2016 compiled successful and now begin the download.The Company name is: baode 
+Tue Jun 14 16:11:41 2016 change version : v2.7.2 
+Tue Jun 14 16:11:47 2016 compiled successful and now begin the download.The Company name is: baode 
+Tue Jun 14 16:13:46 2016 change version : v2.7.2 
+Tue Jun 14 16:14:06 2016 compiled successful and now begin the download.The Company name is: baode 
+Tue Jun 14 16:15:01 2016 change version : v2.7.2_liyuan 
+Tue Jun 14 16:15:16 2016 compiled successful and now begin the download.The Company name is: none 
+Tue Jun 14 16:17:04 2016 change version : v2.7.2 
+Tue Jun 14 16:17:18 2016 compiled successful and now begin the download.The Company name is: none 
+Tue Jun 14 16:18:08 2016 change version : v2.6.7 
+Tue Jun 14 16:18:22 2016 compiled successful and now begin the download.The Company name is: none 
+Wed Jun 15 09:47:24 2016 change version : v2.7.2_liyuan_beta 
+Wed Jun 15 09:47:38 2016 compiled successful and now begin the download.The Company name is: tz 
+Wed Jun 15 10:57:52 2016 change version : v2.7.2_beta 
+Wed Jun 15 10:58:12 2016 compiled successful and now begin the download.The Company name is: yongfengkeji 
+Wed Jun 15 14:44:09 2016 change version : v2.7.2_beta 
+Wed Jun 15 14:44:24 2016 compiled successful and now begin the download.The Company name is: ql 
+Mon Jun 20 09:10:01 2016 change version : v2.7.2_beta 
+Mon Jun 20 09:10:16 2016 compiled successful and now begin the download.The Company name is: baode 
+Wed Jun 22 15:12:19 2016 change version : v2.6.7 
+Wed Jun 22 15:12:33 2016 compiled successful and now begin the download.The Company name is: baode 
+Wed Jun 22 15:14:04 2016 change version : v2.7.2_beta 
+Wed Jun 22 15:14:18 2016 compiled successful and now begin the download.The Company name is: baode 
+Fri Jun 24 14:08:36 2016 change version : v2.6.7 
+Fri Jun 24 14:08:45 2016 change version : v2.6.7 
+Fri Jun 24 14:08:50 2016 compiled successful and now begin the download.The Company name is: none 
+Fri Jun 24 14:08:59 2016 compiled successful and now begin the download.The Company name is: none 
+Fri Jun 24 14:10:47 2016 change version : v2.6.7 
+Fri Jun 24 14:11:02 2016 compiled successful and now begin the download.The Company name is: none 
+Fri Jun 24 14:18:46 2016 change version : v2.6.7 
+Fri Jun 24 14:19:00 2016 compiled successful and now begin the download.The Company name is: tdwy 
+Wed Jun 29 15:30:33 2016 change version : v2.7.2_beta 
+Wed Jun 29 15:30:48 2016 compiled successful and now begin the download.The Company name is: zexabox 
+Fri Jul  1 08:31:12 2016 change version : v2.7.2_beta 
+Fri Jul  1 08:31:27 2016 compiled successful and now begin the download.The Company name is: baode 
+Fri Jul  1 08:55:49 2016 change version : v2.6.7 
+Fri Jul  1 08:56:04 2016 compiled successful and now begin the download.The Company name is: histream 
+Fri Jul  1 10:21:01 2016 change version : v2.6.7 
+Fri Jul  1 10:21:16 2016 compiled successful and now begin the download.The Company name is: baode 
+Fri Jul  1 10:42:54 2016 change version : (standard)v2.3.1_beta 
+Fri Jul  1 10:43:08 2016 compiled successful and now begin the download.The Company name is: baode 
+Fri Jul  1 11:13:03 2016 change version : v2.6.7 
+Fri Jul  1 11:13:17 2016 compiled successful and now begin the download.The Company name is: baode 
+Fri Jul  1 11:14:20 2016 change version : v2.7.2_beta 
+Fri Jul  1 11:14:35 2016 compiled successful and now begin the download.The Company name is: baode 
+Fri Jul  1 11:18:34 2016 change version : v2.7.2_liyuan_beta 
+Fri Jul  1 11:18:50 2016 compiled successful and now begin the download.The Company name is: ql 
+Fri Jul  1 11:32:20 2016 change version : v2.7.2_beta 
+Fri Jul  1 11:32:35 2016 compiled successful and now begin the download.The Company name is: ql 
+Fri Jul  1 11:33:41 2016 change version : v2.6.7 
+Fri Jul  1 11:33:55 2016 compiled successful and now begin the download.The Company name is: ql 
+Fri Jul  1 11:50:26 2016 change version : (standard)v2.3.1_beta 
+Fri Jul  1 11:50:40 2016 compiled successful and now begin the download.The Company name is: ql 
+Fri Jul  1 12:00:34 2016 change version : v2.7.2_beta 
+Fri Jul  1 12:00:34 2016 An error arise when place logo : usage:
+    /home/projects/nw-packer/replace_logo.py company_logo 
+Fri Jul  1 12:03:15 2016 change version : v2.7.2_beta 
+Fri Jul  1 12:03:15 2016 An error arise when place logo : replace
+['/home/projects/nw-packer/replace_logo.py', 'sztnormal']
+sztnormal
+2
+company not found 
+Fri Jul  1 12:04:27 2016 change version : v2.7.2_beta 
+Fri Jul  1 12:04:42 2016 compiled successful and now begin the download.The Company name is: szt 
+Fri Jul  1 12:05:19 2016 A error arise when change branch: error: Your local changes to the following files would be overwritten by checkout:
+	package.json
+Please, commit your changes or stash them before you can switch branches.
+Aborting 
+Fri Jul  1 12:05:43 2016 change version : v2.7.2_beta 
+Fri Jul  1 12:05:58 2016 compiled successful and now begin the download.The Company name is: szt 
+Fri Jul  1 12:06:24 2016 change version : v2.7.2_beta 
+Fri Jul  1 12:06:39 2016 compiled successful and now begin the download.The Company name is: szt 
+Fri Jul  1 14:13:44 2016 change version : v2.7.2_beta 
+Fri Jul  1 14:13:59 2016 compiled successful and now begin the download.The Company name is: szt 
+Fri Jul  1 14:21:33 2016 change version : v2.7.2_beta 
+Fri Jul  1 14:21:48 2016 compiled successful and now begin the download.The Company name is: szt 
+Fri Jul  1 14:24:08 2016 change version : v2.7.2_beta 
+Fri Jul  1 14:24:23 2016 compiled successful and now begin the download.The Company name is: fiamm 
+Fri Jul  1 14:24:46 2016 A error arise when change branch: error: Your local changes to the following files would be overwritten by checkout:
+	package.json
+Please, commit your changes or stash them before you can switch branches.
+Aborting 
+Fri Jul  1 14:28:13 2016 change version : v2.7.2_beta 
+Fri Jul  1 14:28:29 2016 compiled successful and now begin the download.The Company name is: fiamm 
+Fri Jul  1 14:29:32 2016 change version : v2.7.2_liyuan_beta 
+Fri Jul  1 14:29:46 2016 compiled successful and now begin the download.The Company name is: fiamm 
+Sat Jul  2 10:19:37 2016 change version : v2.6.7 
+Sat Jul  2 10:19:51 2016 compiled successful and now begin the download.The Company name is: znv 
+Sat Jul  2 10:33:11 2016 change version : v2.6.7 
+Sat Jul  2 10:33:15 2016 change version : v2.6.7 
+Sat Jul  2 10:33:25 2016 compiled successful and now begin the download.The Company name is: baode 
+Sat Jul  2 10:33:36 2016 compiled successful and now begin the download.The Company name is: znv 
+Sat Jul  2 10:34:57 2016 change version : v2.6.7 
+Sat Jul  2 10:35:12 2016 compiled successful and now begin the download.The Company name is: baode 
+Sat Jul  2 10:38:11 2016 A error arise when change branch: error: Your local changes to the following files would be overwritten by checkout:
+	package.json
+Please, commit your changes or stash them before you can switch branches.
+Aborting 
+Sat Jul  2 10:41:59 2016 change version : v2.7.2_beta 
+Sat Jul  2 10:42:15 2016 compiled successful and now begin the download.The Company name is: huili 
+Sat Jul  2 10:42:31 2016 change version : v2.7.2_liyuan_beta 
+Sat Jul  2 10:42:46 2016 compiled successful and now begin the download.The Company name is: huili 
+Sat Jul  2 10:44:02 2016 change version : v2.7.2_beta 
+Sat Jul  2 10:44:17 2016 compiled successful and now begin the download.The Company name is: znv 
+Sat Jul  2 10:56:50 2016 change version : v2.6.7 
+Sat Jul  2 10:57:06 2016 compiled successful and now begin the download.The Company name is: baode 
+Sat Jul  2 11:03:55 2016 change version : v2.6.7 
+Sat Jul  2 11:04:10 2016 compiled successful and now begin the download.The Company name is: baode 
+Sat Jul  2 11:07:40 2016 change version : v2.6.7 
+Sat Jul  2 11:07:54 2016 compiled successful and now begin the download.The Company name is: znv 
+Sat Jul  2 11:27:29 2016 change version : v2.6.7 
+Sat Jul  2 11:27:44 2016 compiled successful and now begin the download.The Company name is: baode 
+Sat Jul  2 11:31:06 2016 change version : v2.6.7 
+Sat Jul  2 11:31:21 2016 compiled successful and now begin the download.The Company name is: baode 
+Sat Jul  2 11:37:51 2016 change version : v2.6.7 
+Sat Jul  2 11:38:06 2016 compiled successful and now begin the download.The Company name is: baode 
+Sat Jul  2 11:42:54 2016 change version : v2.6.7 
+Sat Jul  2 11:42:54 2016 An error arise when place logo : <module 'sys' (built-in)>
+Traceback (most recent call last):
+  File "/home/projects/nw-packer/replace_logo.py", line 55, in <module>
+    main()
+  File "/home/projects/nw-packer/replace_logo.py", line 36, in main
+    print sys,argv
+NameError: global name 'argv' is not defined 
+Sat Jul  2 11:43:20 2016 change version : v2.6.7 
+Sat Jul  2 11:43:20 2016 An error arise when place logo : normal
+confa/normal/package.json not found 
+Sat Jul  2 11:45:04 2016 change version : v2.6.7 
+Sat Jul  2 11:48:46 2016 change version : v2.6.7 
+Sat Jul  2 11:55:23 2016 change version : v2.6.7 
+Sat Jul  2 11:56:05 2016 change version : v2.6.7 
+Sat Jul  2 11:56:05 2016 An error arise when place logo : Traceback (most recent call last):
+  File "/home/projects/nw-packer/replace_logo.py", line 57, in <module>
+    main()
+  File "/home/projects/nw-packer/replace_logo.py", line 30, in main
+    if int(ver.split('.')[-2]) < 7:
+ValueError: invalid literal for int() with base 10: '/home/projects/nw-packer/replace_logo' 
+Sat Jul  2 14:21:17 2016 change version : v2.6.7 
+Sat Jul  2 14:21:18 2016 An error arise when place logo : Traceback (most recent call last):
+  File "/home/projects/nw-packer/replace_logo.py", line 57, in <module>
+    main()
+  File "/home/projects/nw-packer/replace_logo.py", line 30, in main
+    if int(ver.split('.')[-2]) < 7:
+ValueError: invalid literal for int() with base 10: '/home/projects/nw-packer/replace_logo' 
+Sat Jul  2 14:26:57 2016 change version : v2.6.7 
+Sat Jul  2 14:26:57 2016 An error arise when place logo : usage:
+    /home/projects/nw-packer/replace_logo.py company_logo 
+Sat Jul  2 14:32:06 2016 change version : v2.6.7 
+Sat Jul  2 14:32:20 2016 compiled successful and now begin the download.The Company name is: baode 
+Sat Jul  2 14:34:42 2016 change version : v2.6.7 
+Sat Jul  2 14:34:56 2016 compiled successful and now begin the download.The Company name is: baode 
+Sat Jul  2 15:31:42 2016 change version : v2.7.2_beta 
+Sat Jul  2 15:31:58 2016 compiled successful and now begin the download.The Company name is: baode 
+Sat Jul  2 15:32:24 2016 A error arise when change branch: error: Your local changes to the following files would be overwritten by checkout:
+	package.json
+Please, commit your changes or stash them before you can switch branches.
+Aborting 
+Sat Jul  2 15:35:14 2016 change version : v2.7.2_liyuan_beta 
+Sat Jul  2 15:35:29 2016 compiled successful and now begin the download.The Company name is: baode 
+Sat Jul  2 15:36:07 2016 change version : v2.7.2_liyuan_beta 
+Sat Jul  2 15:36:22 2016 compiled successful and now begin the download.The Company name is: none 
+Sat Jul  2 15:36:39 2016 A error arise when change branch: error: Your local changes to the following files would be overwritten by checkout:
+	package.json
+Please, commit your changes or stash them before you can switch branches.
+Aborting 
+Sat Jul  2 15:37:24 2016 change version : v2.7.2_liyuan_beta 
+Sat Jul  2 15:37:40 2016 compiled successful and now begin the download.The Company name is: none 
+Sat Jul  2 15:41:53 2016 change version : v2.7.2_liyuan_beta 
+Sat Jul  2 15:42:08 2016 compiled successful and now begin the download.The Company name is: none 
+Sat Jul  2 15:44:12 2016 change version : v2.7.2_liyuan_beta 
+Sat Jul  2 15:44:27 2016 compiled successful and now begin the download.The Company name is: none 
+Sat Jul  2 15:45:57 2016 change version : v2.7.2_liyuan_beta 
+Sat Jul  2 15:46:12 2016 compiled successful and now begin the download.The Company name is: none 
+Sat Jul  2 15:47:42 2016 change version : v2.7.2_liyuan_beta 
+Sat Jul  2 15:47:57 2016 compiled successful and now begin the download.The Company name is: none 
+Sat Jul  2 15:48:34 2016 change version : v2.7.2_beta 
+Sat Jul  2 15:48:48 2016 compiled successful and now begin the download.The Company name is: none 
+Sat Jul  2 15:49:15 2016 change version : v2.6.7 
+Sat Jul  2 15:49:28 2016 compiled successful and now begin the download.The Company name is: none 
+Sat Jul  2 15:50:09 2016 change version : v2.7.2_beta 
+Sat Jul  2 15:50:24 2016 compiled successful and now begin the download.The Company name is: none 
+Mon Jul  4 09:00:38 2016 change version : v2.6.7 
+Mon Jul  4 09:00:53 2016 compiled successful and now begin the download.The Company name is: huili 
+Mon Jul  4 09:02:32 2016 change version : v2.7.2_beta 
+Mon Jul  4 09:02:48 2016 compiled successful and now begin the download.The Company name is: sharpwidom 
+Tue Jul  5 11:30:55 2016 change version : v2.6.7 
+Tue Jul  5 11:31:10 2016 compiled successful and now begin the download.The Company name is: baode 
+Tue Jul  5 11:31:26 2016 change version : v2.7.2_beta 
+Tue Jul  5 11:31:41 2016 compiled successful and now begin the download.The Company name is: baode 
+Wed Jul  6 10:36:51 2016 change version : v2.7.2_beta 
+Wed Jul  6 10:37:06 2016 compiled successful and now begin the download.The Company name is: baode 
+Wed Jul  6 10:38:41 2016 change version : v2.7.2_beta 
+Wed Jul  6 10:38:56 2016 compiled successful and now begin the download.The Company name is: dh 
+Wed Jul  6 10:42:44 2016 change version : (standard)v2.0.0.1208_beta 
+Wed Jul  6 10:42:58 2016 compiled successful and now begin the download.The Company name is: dh 
+Wed Jul  6 11:11:18 2016 change version : v2.6.7 
+Wed Jul  6 11:11:33 2016 compiled successful and now begin the download.The Company name is: dh 
+Thu Jul  7 17:48:08 2016 change version : v2.7.2_beta 
+Thu Jul  7 17:48:24 2016 compiled successful and now begin the download.The Company name is: zexabox 
+Fri Jul  8 11:41:10 2016 change version : v2.6.7 
+Fri Jul  8 11:41:25 2016 compiled successful and now begin the download.The Company name is: zexabox 
+Fri Jul  8 16:33:11 2016 change version : (hwraid)v1.0.0.1208_beta 
+Fri Jul  8 16:33:25 2016 compiled successful and now begin the download.The Company name is: baode 
+Fri Jul  8 16:56:31 2016 change version : v2.6.7 
+Fri Jul  8 16:56:46 2016 compiled successful and now begin the download.The Company name is: tdwy 
+Fri Jul  8 17:00:52 2016 change version : v2.7.2_beta 
+Fri Jul  8 17:01:07 2016 compiled successful and now begin the download.The Company name is: tdwy 
+Fri Jul  8 17:11:16 2016 change version : v2.6.7 
+Fri Jul  8 17:11:31 2016 compiled successful and now begin the download.The Company name is: none 
+Fri Jul  8 17:15:17 2016 change version : v2.6.7 
+Fri Jul  8 17:15:32 2016 compiled successful and now begin the download.The Company name is: none 
+Wed Jul 13 14:55:56 2016 change version : v2.7.2_beta 
+Wed Jul 13 14:56:11 2016 compiled successful and now begin the download.The Company name is: baode 
+Wed Jul 13 15:30:36 2016 change version : v2.7.2_beta 
+Wed Jul 13 15:30:52 2016 compiled successful and now begin the download.The Company name is: baode 
+Wed Jul 13 19:17:39 2016 change version : (hwraid)v1.0.0.1208_beta 
+Wed Jul 13 19:17:53 2016 compiled successful and now begin the download.The Company name is: ql 
+Thu Jul 14 09:36:27 2016 change version : (hwraid)v1.0.0.1208_beta 
+Thu Jul 14 09:36:43 2016 compiled successful and now begin the download.The Company name is: walltiming 
+Thu Jul 21 15:26:08 2016 change version : (hwraid)v1.0.0.1208_beta 
+Thu Jul 21 15:26:28 2016 compiled successful and now begin the download.The Company name is: xhx 
+Fri Aug 12 13:52:32 2016 change version : v2.6.7 
+Fri Aug 12 13:52:38 2016 compiled successful and now begin the download.The Company name is: baode 
+Fri Aug 12 14:43:08 2016 change version : v2.6.7 
+Fri Aug 12 14:43:14 2016 compiled successful and now begin the download.The Company name is: dh 
+Fri Aug 12 14:54:37 2016 change version : v2.6.7 
+Fri Aug 12 14:54:43 2016 compiled successful and now begin the download.The Company name is: dh 
+Sat Aug 13 16:10:07 2016 change version : v2.6.7 
+Sat Aug 13 16:10:12 2016 compiled successful and now begin the download.The Company name is: histream 

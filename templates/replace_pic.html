@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>更换公司图标</title>
+</head>
+<body>
+    <p>上传要更换的公司图标</p>
+    <form method="post", enctype="multipart/form-data" >
+        <p>请选择公司</p>
+        <select name="company">
+            {% for l in list %}
+                <option value="{{ l }}">{{ l }}</option>
+        {% endfor %}
+        </select>
+        <div class="fieldWrapper">
+            上传图片"logo.png"：<input type="file" name="pic"  accept="image/gif, image/jpeg" />
+        </div>
+        <div class="fieldWrapper">
+            上传图片"logo-big.png"：<input type="file" name="pic1"  accept="image/gif, image/jpeg" />
+        </div>
+        <input type="submit" value="ok"/>
+        </form>
+
+<h3>>已有公司列表</h3>
+<table border="3">
+<tr>
+    {% for l in list %}
+
+    <td>
+    <img src="/static/server/{{ l }}.png" width="150" height="50" alt="{{ l }}"/>
+        <br />
+    <b>{{ l }}</b>
+    </td>
+        {% if forloop.counter|divisibleby:"4" %}
+    </tr>
+        {% endif %}
+        {% if forloop.counter|divisibleby:"4" %}
+    <tr>
+        {% endif %}
+{% endfor %}
+    </tr>
+</table>
+<a href="http://192.168.2.181:8001" >回主页</a>
+<p>上传文件格式为png，文件名可以随意。替换后原来的文件可以在/root/mysite/picbeifen中找到<p>
+</body>
+</html>
